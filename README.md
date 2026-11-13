@@ -14,9 +14,7 @@ En este sprint se hace el particionado manual de la máquina virtual, la red ent
 
 ## Video del sprint
 
-Aquí va el video de YouTube del sprint.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jNQXAC9IVRw" title="Video de prueba" frameborder="0" allowfullscreen></iframe>
+Aquí va el enlace del video de YouTube del sprint.
 
 ---
 
