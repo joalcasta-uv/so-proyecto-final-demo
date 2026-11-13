@@ -4,6 +4,12 @@ Sitio de prueba del proyecto. Esta página se escribe en un archivo README.md y 
 
 En este sprint se hace el particionado manual de la máquina virtual, la red entre las dos máquinas con acceso por SSH y una instantánea de cada máquina.
 
+## Páginas
+
+[Sprint 1](sprint-1.md)
+
+[Sprint 2](sprint-2/README.md)
+
 ## Comandos usados
 
 | Comando | Para qué sirve |
