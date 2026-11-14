@@ -2,9 +2,9 @@
 
 > **Página de ejemplo.** Tiene la misma estructura que la del Sprint 1: un apartado por punto, con lo que se hizo, los comandos y la captura. [Volver al inicio](../)
 
-**Qué se pide en este sprint (8 puntos):** usuarios y grupo, sudo y permisos, firewall, llave SSH y actualización, script gráfico, script de consola, procesos y Docker Engine.
-**Qué se entrega en el campus:** el enlace del sitio.
-**Qué más:** video de 4 minutos, los dos scripts en el repositorio, 2 commits por integrante y `codigo_sprint2.txt` en el home del usuario principal.
+- **Qué se pide en este sprint (8 puntos):** usuarios y grupo, sudo y permisos, firewall, llave SSH y actualización, script gráfico, script de consola, procesos y Docker Engine.
+- **Qué se entrega en el campus:** el enlace del sitio.
+- **Qué más:** video de 4 minutos, los dos scripts en el repositorio, 2 commits por integrante y `codigo_sprint2.txt` en el home del usuario principal.
 
 ## Cómo se organiza cada punto
 
