@@ -1,27 +1,50 @@
-Sitio de prueba del proyecto. Esta página se escribe en un archivo README.md y GitHub Pages la publica como sitio web.
+# Proyecto Final · Sistemas Operativos 750001C
 
-## Sprint 1 - Montaje
+**Grupo 07 · Sitio de ejemplo.** Los nombres de los integrantes son inventados. Este sitio muestra cómo se ve una entrega bien hecha; cada grupo construye el suyo con su propio contenido. No es un sitio oficial de la Universidad del Valle.
 
-En este sprint se hace el particionado manual de la máquina virtual, la red entre las dos máquinas con acceso por SSH y una instantánea de cada máquina.
+## Objetivo
 
-## Páginas
+Montar dos máquinas virtuales con Linux en VirtualBox, configurarlas, publicar en Docker Hub una imagen propia, desplegarla en Kubernetes y contar lo que hicimos en este sitio.
 
-[Sprint 1](sprint-1.md)
+## Integrantes y lo que hizo cada uno
 
-[Sprint 2](sprint-2/README.md)
-
-## Comandos usados
-
-| Comando | Para qué sirve |
+| Integrante | Parte del proyecto |
 |---|---|
-| lsblk | Ver discos y particiones |
-| df -h | Ver el espacio de cada partición |
-| ip a | Ver las direcciones de red |
+| Ana | Coordinación y repositorio |
+| Luis | Máquinas virtuales y red |
+| Marta | Docker, scripts y sitio web |
 
-## Video del sprint
+## Distribuciones del grupo
 
-Aquí va el enlace del video de YouTube del sprint.
+| VM gráfica | VM de consola | Imagen base del Dockerfile |
+|---|---|---|
+| Xubuntu | Rocky Linux | Alpine |
+
+La versión elegida y su verificación están en la [ficha de versión](plan/ficha-version.md). El reparto del trabajo está en el [plan de trabajo](plan/plan-de-trabajo.md).
+
+## Páginas del proyecto
+
+- [Sprint 1 · Montaje](sprint-1.md)
+- [Sprint 2 · Servicios](sprint-2/README.md)
+- Sprint 3 · Cierre (se agrega cuando se entregue)
+- [Qué es cada cosa](glosario.md): repositorio, plan de trabajo, ficha de versión, commit y las demás palabras del proyecto
+
+## Cuadro comparativo del instalador
+
+Aquí va el cuadro de mínimo 6 filas (instalador, herramienta de particionado, comando para instalar y actualizar paquetes, firewall, grupo de administradores y comando para iniciar y detener servicios).
+
+## Conclusiones
+
+Aquí va un párrafo por integrante, con su nombre, de 4 a 6 líneas: qué aprendió, una dificultad con su solución y qué haría distinto.
+
+## Uso de inteligencia artificial
+
+Aquí declaran qué herramientas de IA usaron y para qué. Las evidencias y las explicaciones las producen ustedes.
+
+## Repositorio
+
+Aquí va el enlace al repositorio de GitHub del grupo.
 
 ---
 
-Ejemplo pedagógico del curso Sistemas Operativos 750001C. No es un sitio oficial de la Universidad del Valle.
+Ejemplo pedagógico del curso Sistemas Operativos 750001C.
