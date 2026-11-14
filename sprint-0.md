@@ -2,9 +2,9 @@
 
 > **Página de ejemplo.** Explica cómo se hace el Sprint 0 desde cero, con capturas de GitHub. [Volver al inicio](./)
 
-**Qué se entrega:** el enlace de un repositorio público de GitHub que tenga una carpeta `plan` con dos archivos: `plan-de-trabajo.md` y `ficha-version.md`.
-**Dónde se entrega:** en el campus, solo el enlace. Sin video ni commits obligatorios.
-**Cierre:** jueves 19 de noviembre en Santander y viernes 20 en Yumbo, 11:55 p. m.
+- **Qué se entrega:** el enlace de un repositorio público de GitHub que tenga una carpeta `plan` con dos archivos: `plan-de-trabajo.md` y `ficha-version.md`.
+- **Dónde se entrega:** en el campus, solo el enlace. Sin video ni commits obligatorios.
+- **Cierre:** jueves 19 de noviembre en Santander y viernes 20 en Yumbo, 11:55 p. m.
 
 Si no entiende alguna palabra, mírela en [Qué es cada cosa](glosario.md).
 
@@ -58,11 +58,11 @@ Abra cada archivo: GitHub lo muestra con formato, con títulos y tablas. Si ve s
 
 ## Lista de revisión
 
-- [ ] El repositorio es público.
-- [ ] Existe la carpeta `plan` con `plan-de-trabajo.md` y `ficha-version.md`.
-- [ ] El plan de trabajo tiene a todos los integrantes, su rol y sus fechas.
-- [ ] La ficha de versión tiene las seis respuestas de cada distribución, cada una con su enlace.
-- [ ] El enlace del campus es el del repositorio.
+- El repositorio es público.
+- Existe la carpeta `plan` con `plan-de-trabajo.md` y `ficha-version.md`.
+- El plan de trabajo tiene a todos los integrantes, su rol y sus fechas.
+- La ficha de versión tiene las seis respuestas de cada distribución, cada una con su enlace.
+- El enlace del campus es el del repositorio.
 
 ## Dudas frecuentes
 
