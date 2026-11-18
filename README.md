@@ -27,7 +27,7 @@ La versión elegida y su verificación están en la [ficha de versión](plan/fic
 - [Sprint 0 · Arranque, paso a paso](sprint-0.md)
 - [Sprint 1 · Montaje](sprint-1.md)
 - [Sprint 2 · Servicios](sprint-2/README.md)
-- Sprint 3 · Cierre (se agrega cuando se entregue)
+- [Sprint 3 · Cierre](sprint-3.md)
 - [Qué es cada cosa](glosario.md): repositorio, plan de trabajo, ficha de versión, commit y las demás palabras del proyecto
 
 ## Cuadro comparativo del instalador
